@@ -1,0 +1,12 @@
+{
+  "name": "apicloud",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "serve": "node index.js"
+  }
+}
